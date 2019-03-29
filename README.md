@@ -4,11 +4,13 @@ Data pulled from Steam (accurate as of 2018) and stored as a relational database
 ## Data is provided as-is. No guarentees are made to its accuracy.
 All the data was entered by hand from the following links:
 
-> https://store.steampowered.com/sale/winter2018bestof/
-> https://store.steampowered.com/sale/2018_top_played/
-> https://www.esrb.org/
-
-
+> https://store.steampowered.com/sale/winter2018bestof/  
+> https://store.steampowered.com/sale/2018_top_played/  
+> https://www.esrb.org/  
+  
+  
+  
+  
 * The "Genres" are Steam Tags, some of which are user defined.  
 * Steam tags that only turned up once were ignored.  
 * Tags that were variations of existing tags were incorporated into a single tag ("turn based tactics" == "turn based strategy", "FPS" == "First Person Shooter" etc.)  
