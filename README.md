@@ -8,9 +8,14 @@ All the data was entered by hand from the following links:
 > https://store.steampowered.com/sale/2018_top_played/
 > https://www.esrb.org/
 
-The "Genres" are Steam Tags, some of which are user defined.  
-Steam tags that only turned up once were ignored.  
-Tags that were variations of existing tags were incorporated into a single tag ("turn based tactics" == "turn based strategy", "FPS" == "First Person Shooter" etc.)  
-Some tags were added to some games by myself as I felt they applied while others were removed because I felt they did not. ("Simulation" was applied far too liberally in my opinion. Games that "simulate" commanding armies, for example, are not simulation games.)  
-Some tags, such as "Story-Rich" were not applied to all the games that are, in my opinion, story rich. The data has not been updated to reflect this (The data is missing tags that I think should be added).  
-The "Adventure" tag was ignored, regardless of the fact that it turns up several times.  
+
+* The "Genres" are Steam Tags, some of which are user defined.  
+* Steam tags that only turned up once were ignored.  
+* Tags that were variations of existing tags were incorporated into a single tag ("turn based tactics" == "turn based strategy", "FPS" == "First Person Shooter" etc.)  
+* Some tags were added to some games by myself as I felt they applied while others were removed because I felt they did not. ("Simulation" was applied far too liberally in my opinion. Games that "simulate" commanding armies, for example, are not simulation games.)  
+* Some tags, such as "Story-Rich" were not applied to all the games that are, in my opinion, story rich. The data has not been updated to reflect this (The data is missing tags that I think should be added).  
+* The "Adventure" tag was ignored, regardless of the fact that it turns up several times.  
+* A number of the games are given the rating "Unknown". This is due to them not being rated by ESRB. No attempt was made to find them on the PEGI system, where they may have been rated. Bare this in mind when drawing conclusions.
+
+
+## If you fix any of these issues, please upload the results.
